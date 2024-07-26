@@ -7,8 +7,6 @@ This comprehensive Tableau dashboard visualizes key metrics and insights derived
 
 **Attrition Rate:** Out of 1,470 employees, 237 have left, resulting in an attrition rate of 16.12%.
 
-##Demographic Insights:
-
 **Average Age:** The average age of employees is 36.92 years.
 
 **Average Monthly Income:** Employees earn an average of $6,503 per month.
@@ -23,7 +21,7 @@ This comprehensive Tableau dashboard visualizes key metrics and insights derived
 
 **By Gender:** Illustrates attrition distribution across male and female employees, with 150 males and 87 females having left the organization.
 
-## Age Group Analysis: Provides a breakdown of attrition by age group, revealing that the 25-35 age group has the highest number of leavers (510), followed by the 36-45 age group (425).
+**Age Group Analysis:** Provides a breakdown of attrition by age group, revealing that the 25-35 age group has the highest number of leavers (510), followed by the 36-45 age group (425).
 
 **Travel-Related Attrition:** Examines the impact of travel requirements on employee attrition, showing minimal correlation between travel frequency and attrition rates.
 
