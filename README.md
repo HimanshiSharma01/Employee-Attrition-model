@@ -32,7 +32,7 @@ This comprehensive Tableau dashboard visualizes key metrics and insights derived
 ## Purpose and Impact
 The dashboard aims to provide actionable insights into employee attrition, helping organizations identify key areas for improvement in employee satisfaction and retention strategies. By visualizing complex HR data in an accessible format, it supports data-driven decision-making and strategic planning.
 
-##Technology Stack
+## Technology Stack
 Data Visualization: Tableau
 
 Data Analysis: Utilized descriptive analytics to uncover trends and patterns in employee attrition data.
